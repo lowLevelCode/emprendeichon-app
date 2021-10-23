@@ -1,0 +1,10 @@
+.banner {
+    background-image: url("https://elordenmundial.com/wp-content/uploads/2017/01/ESPACIO-1024x640.jpg");
+    background-size: cover;    
+}
+
+.banner-own {
+    background-image: url("https://elordenmundial.com/wp-content/uploads/2017/01/ESPACIO-1024x640.jpg");
+    background-size: cover;    
+    border-radius: 20px;
+}
